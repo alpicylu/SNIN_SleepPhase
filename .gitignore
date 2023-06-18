@@ -167,3 +167,5 @@ data/
 
 datasets/*.edf
 /Covid19-dataset
+test/
+train/
